@@ -5,9 +5,9 @@ GitHub repo size GitHub contributors GitHub stars GitHub forks Twitter Follow
 Project name is a Rock-scissor-paper that allows users to play a game.
 
 The game is played against the computer. You can choose rock, scissor or paper and the computer vil choose likewise. 
-Rock beat Scissors.
-Scissors beat Paper
-Paper beats Rock
+Rock beat Scissor.
+Scissors beat Paper.
+Paper beats Rock.
 If you win 2 out of 3 rounds you have won the game.
 
 Prerequisites
@@ -17,14 +17,11 @@ You have installed the latest version of java.
 You have a Windows/Linux/Mac machine. State which OS is supported/which is not.
 You have read the readme file.
 No developer tools are required. There is a jar file included.
-To install Game-Rock-scissor-paper-GUI, follow these steps:
 
-Linux and macOS:
+Installing Game-Rock-scissor-paper-GUI
+No installation required.
+Compatible with Linux, macOS and Windows:
 
-install_command
-Windows:
-
-install_command
 Using Game-Rock-scissor-paper-GUI
 To use Game-Rock-scissor-paper-GUI, follow these steps:
 
